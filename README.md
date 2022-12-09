@@ -13,8 +13,8 @@ OpenCV + EasyOCR API
 
 ![image](https://user-images.githubusercontent.com/66423140/206693515-1a24d81a-b0b0-4218-ace1-9f1d11e82455.png)
 
-S3 BUCKET에 저장된 이미지 접근
-OpenCV 전처리 작업 거침
-전처리 작업 거친 이미지를 EasyOCR을 통해 OCR 작업
-Symspell 알고리즘을 통해 단어 유사도 측정
-Dataset과 비교 후 매칭된 정보를 front로 전송 
+S3 BUCKET에 저장된 이미지 접근  
+OpenCV 전처리 작업 거침  
+전처리 작업 거친 이미지를 EasyOCR을 통해 OCR 작업  
+Symspell 알고리즘을 통해 단어 유사도 측정  
+Dataset과 비교 후 매칭된 정보를 front로 전송   
