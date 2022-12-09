@@ -3,7 +3,7 @@ OCR 실행을 위한 코드
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
-<img src="https://img.shields.io/badge/EasyOcr-3776AB?style=for-the-badge&logo=Python&logoColor=blacj">
+<img src="https://img.shields.io/badge/EasyOcr-3776AB?style=for-the-badge&logo=Python&logoColor=black">
 
 [S3 BUCKET UPLOAD]
 
